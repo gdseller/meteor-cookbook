@@ -22,9 +22,9 @@ Router.route('/info', {
 });
 
 
-Router.route('/demo', {
-  template: "singleTileDemo",
-  name: "singleTileDemo"
+Router.onBeforeAction(function(){
+  $('div#famousScene .famous-dom-renderer').remove();
+  this.next();
 });
 
 })();

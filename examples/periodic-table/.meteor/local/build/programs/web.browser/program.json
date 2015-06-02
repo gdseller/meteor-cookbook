@@ -592,22 +592,31 @@
       "hash": "2ca95c7c50d8e8606ea6103808afbf5df92eff1b"
     },
     {
+      "path": "app/client/components/listOfSpinners/template.listOfSpinners.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/listOfSpinners/template.listOfSpinners.js?be12272d832140e70a3ccac2689d3d8c9d198825",
+      "size": 449,
+      "hash": "be12272d832140e70a3ccac2689d3d8c9d198825"
+    },
+    {
       "path": "app/client/components/navbarFooter/template.navbarFooter.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/components/navbarFooter/template.navbarFooter.js?4c8d574264f5ff77171ddf072fe999c3e27ff336",
-      "size": 174,
-      "hash": "4c8d574264f5ff77171ddf072fe999c3e27ff336"
+      "url": "/client/components/navbarFooter/template.navbarFooter.js?6f0d117e07dba2dfe75182d2804be14697444b9d",
+      "size": 573,
+      "hash": "6f0d117e07dba2dfe75182d2804be14697444b9d"
     },
     {
       "path": "app/client/components/navbarHeader/template.navbarHeader.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/components/navbarHeader/template.navbarHeader.js?83f280f47db4498263323b2dca2b156a5b7b59a6",
-      "size": 174,
-      "hash": "83f280f47db4498263323b2dca2b156a5b7b59a6"
+      "url": "/client/components/navbarHeader/template.navbarHeader.js?029c27b82e41a0f57bd8bd4a9181cd6056245cc0",
+      "size": 292,
+      "hash": "029c27b82e41a0f57bd8bd4a9181cd6056245cc0"
     },
     {
       "path": "app/client/components/periodicTablePage/template.periodicTablePage.js",
@@ -619,22 +628,40 @@
       "hash": "530e507ee18aa9eb997bb27317f73815ed7f2d60"
     },
     {
+      "path": "app/client/components/physicsGrid/template.physicsGrid.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/physicsGrid/template.physicsGrid.js?e9716410f6ddafaf8fe6b14c1f7f0a0ed4729e25",
+      "size": 440,
+      "hash": "e9716410f6ddafaf8fe6b14c1f7f0a0ed4729e25"
+    },
+    {
       "path": "app/client/components/singleTileDemo/template.singleTileDemo.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/components/singleTileDemo/template.singleTileDemo.js?f1069159c28c0e2fa4134ac8a82c54b1eca9ebc0",
-      "size": 180,
-      "hash": "f1069159c28c0e2fa4134ac8a82c54b1eca9ebc0"
+      "url": "/client/components/singleTileDemo/template.singleTileDemo.js?d3e86abd9fd696588e9f5f7a77b8b91ae7fc8770",
+      "size": 451,
+      "hash": "d3e86abd9fd696588e9f5f7a77b8b91ae7fc8770"
+    },
+    {
+      "path": "app/client/components/transformsGrid/template.transformsGrid.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/transformsGrid/template.transformsGrid.js?64f61108676c884d92cbfe951b4dd5d4402a75be",
+      "size": 449,
+      "hash": "64f61108676c884d92cbfe951b4dd5d4402a75be"
     },
     {
       "path": "app/client/template.appLayout.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/template.appLayout.js?d67da7b681f192aaa79cfd99fb979304b74e3d4e",
-      "size": 377,
-      "hash": "d67da7b681f192aaa79cfd99fb979304b74e3d4e"
+      "url": "/client/template.appLayout.js?ef241419260dc54115185522b963677ff8992e9d",
+      "size": 535,
+      "hash": "ef241419260dc54115185522b963677ff8992e9d"
     },
     {
       "path": "app/lib/collections.js",
@@ -650,9 +677,9 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/lib/router.js?7fc027ab408a61acd8ebf08ecff7efd1a55117b1",
-      "size": 505,
-      "hash": "7fc027ab408a61acd8ebf08ecff7efd1a55117b1"
+      "url": "/lib/router.js?b1fed7e58888851149908dedd0367a0f785458fa",
+      "size": 529,
+      "hash": "b1fed7e58888851149908dedd0367a0f785458fa"
     },
     {
       "path": "app/client/components/infoPage/infoPage.js",
@@ -664,6 +691,33 @@
       "hash": "4fe77b61ec2db88a9e24a5b58f360b43579c959a"
     },
     {
+      "path": "app/client/components/listOfSpinners/listOfSpinners.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/listOfSpinners/listOfSpinners.js?e753c2f97f7a807b0e914d8bcde52eb9e7a9ae92",
+      "size": 2637,
+      "hash": "e753c2f97f7a807b0e914d8bcde52eb9e7a9ae92"
+    },
+    {
+      "path": "app/client/components/navbarFooter/navbarFooter.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/navbarFooter/navbarFooter.js?77120386e57e388b39618a1dc11dbcfd36d98fe0",
+      "size": 96,
+      "hash": "77120386e57e388b39618a1dc11dbcfd36d98fe0"
+    },
+    {
+      "path": "app/client/components/navbarHeader/navbarHeader.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/navbarHeader/navbarHeader.js?fa136397678003a43af517a24565815d7f6cce49",
+      "size": 94,
+      "hash": "fa136397678003a43af517a24565815d7f6cce49"
+    },
+    {
       "path": "app/client/components/periodicTablePage/periodicTablePage.js",
       "where": "client",
       "type": "js",
@@ -673,13 +727,31 @@
       "hash": "408c06d0ca33c8f86c6411344f4818a1b4e12dfe"
     },
     {
+      "path": "app/client/components/physicsGrid/physicsGrid.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/physicsGrid/physicsGrid.js?0030c7e37b613737dd1eb1fd6155a26c87edf75a",
+      "size": 4745,
+      "hash": "0030c7e37b613737dd1eb1fd6155a26c87edf75a"
+    },
+    {
       "path": "app/client/components/singleTileDemo/singleTileDemo.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/components/singleTileDemo/singleTileDemo.js?1d27e73b85869aa0fe352a2842822621099e272f",
-      "size": 2489,
-      "hash": "1d27e73b85869aa0fe352a2842822621099e272f"
+      "url": "/client/components/singleTileDemo/singleTileDemo.js?e391e900c6f4d05621c8499457234c89cdbab21b",
+      "size": 2859,
+      "hash": "e391e900c6f4d05621c8499457234c89cdbab21b"
+    },
+    {
+      "path": "app/client/components/transformsGrid/transformsGrid.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/components/transformsGrid/transformsGrid.js?8c94ffa8d01a66a16856aab94369cc79397e3b6c",
+      "size": 7103,
+      "hash": "8c94ffa8d01a66a16856aab94369cc79397e3b6c"
     },
     {
       "path": "app/client/appLayout.js",
@@ -704,20 +776,20 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/subscriptions.js?b08f287bbf348fec1281651a3cbf09c8732cb86e",
-      "size": 117,
-      "hash": "b08f287bbf348fec1281651a3cbf09c8732cb86e"
+      "url": "/client/subscriptions.js?4582694878c33a5985d802dca4376c71184fe6c3",
+      "size": 92,
+      "hash": "4582694878c33a5985d802dca4376c71184fe6c3"
     },
     {
-      "path": "85c55e7bac09429638c151cc4ba5ea2561e34c60.css",
+      "path": "7c986d7b7b3d006aeb5783c73e2f4e43205acc25.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/85c55e7bac09429638c151cc4ba5ea2561e34c60.css",
-      "sourceMap": "85c55e7bac09429638c151cc4ba5ea2561e34c60.css.map",
-      "sourceMapUrl": "/85c55e7bac09429638c151cc4ba5ea2561e34c60.map",
-      "size": 38661,
-      "hash": "85c55e7bac09429638c151cc4ba5ea2561e34c60"
+      "url": "/7c986d7b7b3d006aeb5783c73e2f4e43205acc25.css",
+      "sourceMap": "7c986d7b7b3d006aeb5783c73e2f4e43205acc25.css.map",
+      "sourceMapUrl": "/7c986d7b7b3d006aeb5783c73e2f4e43205acc25.map",
+      "size": 42639,
+      "hash": "7c986d7b7b3d006aeb5783c73e2f4e43205acc25"
     },
     {
       "path": "packages/fortawesome_fontawesome/Font-Awesome/fonts/fontawesome-webfont.eot",
@@ -961,6 +1033,42 @@
       "url": "/famous_logo.png",
       "size": 4114,
       "hash": "9f6f25ef1ebd0d3ce08e88fe4cb34e5473389b61"
+    },
+    {
+      "path": "app/hubble.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/hubble.jpg",
+      "size": 6409144,
+      "hash": "68a8daae017ed30c463725350c984e015fb95435"
+    },
+    {
+      "path": "app/hubble1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/hubble1.jpg",
+      "size": 124675,
+      "hash": "10e4735458bc2584720897b2776a43ce6926b879"
+    },
+    {
+      "path": "app/hubble7.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/hubble7.jpg",
+      "size": 161386,
+      "hash": "b72bd9c00cea36023f3e3058a7006bcbadc57593"
+    },
+    {
+      "path": "app/hubble8.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/hubble8.jpg",
+      "size": 842931,
+      "hash": "51da6dc17aa0a491cd7b5bdb542ce71def2105ed"
     },
     {
       "path": "app/panel-item-ticks-hq.png",

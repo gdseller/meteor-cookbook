@@ -1,7 +1,7 @@
 (function(){
 Template.body.addContent((function() {
   var view = this;
-  return HTML.Raw('<div id="backgroundImage"></div>');
+  return [ Spacebars.include(view.lookupTemplate("navbarHeader")), HTML.Raw('\n  <div id="famousScene"></div>\n  <div id="backgroundImage"></div>\n\n  '), Spacebars.include(view.lookupTemplate("navbarFooter")) ];
 }));
 Meteor.startup(Template.body.renderToDocument);
 

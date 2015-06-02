@@ -1,5 +1,5 @@
-(function(){Session.setDefault("ElementsId", null);
+(function(){//Session.setDefault("ElementsId", null);
 
-Meteor.subscribe("Elements", Session.get('ElementsId'));
+Meteor.subscribe("Elements");
 
 })();

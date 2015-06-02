@@ -3,28 +3,28 @@
   "unibuildDependencies": {
     "os.json": {
       "files": {
-        "/Users/abigailwatson/Code/meteor-cookbook/examples/periodic-table/packages/dataset-periodic-table/package.js": "2a9727ba0d5f6b6dfe5b44080d7099c21dabc1c0",
-        "/Users/abigailwatson/Code/meteor-cookbook/examples/periodic-table/packages/dataset-periodic-table/dataset-periodic-table.js": "171b0625ce270a8a7ca54456e025354d35054cf1"
+        "/Users/abigailwatson/Code/MeteorCookbook/examples/periodic-table/packages/dataset-periodic-table/package.js": "2a9727ba0d5f6b6dfe5b44080d7099c21dabc1c0",
+        "/Users/abigailwatson/Code/MeteorCookbook/examples/periodic-table/packages/dataset-periodic-table/dataset-periodic-table.js": "171b0625ce270a8a7ca54456e025354d35054cf1"
       },
       "directories": []
     },
     "web.browser.json": {
       "files": {
-        "/Users/abigailwatson/Code/meteor-cookbook/examples/periodic-table/packages/dataset-periodic-table/package.js": "2a9727ba0d5f6b6dfe5b44080d7099c21dabc1c0"
+        "/Users/abigailwatson/Code/MeteorCookbook/examples/periodic-table/packages/dataset-periodic-table/package.js": "2a9727ba0d5f6b6dfe5b44080d7099c21dabc1c0"
       },
       "directories": []
     }
   },
   "pluginDependencies": {
     "files": {
-      "/Users/abigailwatson/Code/meteor-cookbook/examples/periodic-table/packages/dataset-periodic-table/package.js": "2a9727ba0d5f6b6dfe5b44080d7099c21dabc1c0"
+      "/Users/abigailwatson/Code/MeteorCookbook/examples/periodic-table/packages/dataset-periodic-table/package.js": "2a9727ba0d5f6b6dfe5b44080d7099c21dabc1c0"
     },
     "directories": []
   },
   "pluginProviderPackageMap": {
     "starrynight:dataset-periodic-table": {
       "kind": "local",
-      "sourceRoot": "/Users/abigailwatson/Code/meteor-cookbook/examples/periodic-table/packages/dataset-periodic-table"
+      "sourceRoot": "/Users/abigailwatson/Code/MeteorCookbook/examples/periodic-table/packages/dataset-periodic-table"
     },
     "meteor": {
       "kind": "versioned",
